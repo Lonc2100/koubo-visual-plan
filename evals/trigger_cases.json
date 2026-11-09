@@ -1,0 +1,1 @@
+{"positive_concepts": {"task": ["规划画面", "画面规划", "规划", "koubo-visual-plan"]}, "description_required_concepts": [], "recommended_threshold": 0.1, "negative_patterns": ["写一首诗"], "should_trigger": [{"text": "请根据这份逐字稿规划画面，说明每句看什么、为什么、同一对象如何变化及真实素材来源。"}, {"text": "koubo-visual-plan 画面规划"}], "should_not_trigger": [{"text": "写一首诗"}], "near_neighbor": [{"text": "只帮我改一个文件名"}]}
